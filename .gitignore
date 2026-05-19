@@ -21,3 +21,5 @@ Thumbs.db
 
 # Banco local gerado em execução
 finops.db
+#banco de dados 
+dataset(1)
